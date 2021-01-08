@@ -54,7 +54,7 @@ Publish the website in the given URL.
 </body>
 
 </html>
-
+```
 ### home.html
 ```
 {% extends "website/base.html" %}
@@ -227,9 +227,8 @@ Publish the website in the given URL.
         </div>
     </div>
     {% endblock  %}
-
     ```
-    ###contactus.htnl
+    ### contactus.html
     ```
     {% extends "website/base.html" %}
 
@@ -268,7 +267,9 @@ return true; }
 </table>
 </form>
 {% endblock  %}
-## OUTPUT:
+```
+  ## output:
+
 
 ![output](./static/img/output1.jpg)
 
