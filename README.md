@@ -280,15 +280,15 @@ return true; }
 ![output](./static/img/output4.jpg)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/BASEVALIDATOR.jpg)
+![output](./static/img/r1.jpg)
 
-![output](./static/img/HOMEVALIDATOR.jpg)
+![output](./static/img/r2.jpg)
 
-![output](./static/img/PEOPLEVALIDATOR.jpg)
+![output](./static/img/r3.jpg)
 
-![output](./static/img/PRODUCTSVALIDATOR.jpg)
+![output](./static/img/r4.jpg)
 
-![output](./static/img/CONTACTUSVALIDATOR.jpg)
+![output](./static/img/r5.jpg)
 
 ## RESULT:
-Thus a website is designed for the chip manufacturing company and is hosted in the URL http://demo2.student.saveetha.in:8000/. HTML code is validated.
+Thus a website is designed for the chip manufacturing company and is hosted in the URL http://lishali.student.saveetha.in:8000/. HTML code is validated.
