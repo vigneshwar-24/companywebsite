@@ -48,7 +48,7 @@ Publish the website in the given URL.
     {% endblock  %}
     </div>
     <div class="footer">
-        Copyright © 2021 LISHA CORP Limited, Developed by Lishali
+        Copyright © 2021 LISHA CORP Limited, Developed by vignesh
     </div>
     </div>
 </body>
@@ -291,4 +291,4 @@ return true; }
 ![output](./static/img/r5.jpg)
 
 ## RESULT:
-Thus a website is designed for the chip manufacturing company and is hosted in the URL http://lishali.student.saveetha.in:8000/. HTML code is validated.
+Thus a website is designed for the chip manufacturing company and is hosted in the URL http://vigneshwar.student.saveetha.in:8000/. HTML code is validated.
